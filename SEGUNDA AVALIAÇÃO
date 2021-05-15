@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Landing Page - Start Bootstrap Theme</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+  <!-- Custom styles for this template -->
+  <link href="css/landing-page.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-dark bg-dark static-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">Mar De Safira Joias</a>
+      <a class="btn btn-primary" < a href="https://1a-avaliacao.thaynagama.repl.co/">Cadastre-se </a>
+      
+
+    </div>
+  </nav>
+
+  <!-- Masthead -->
+  <header class="masthead text-dark text-center"
+   style="background-image: url('https://storage.googleapis.com/chile-travel-static-content/2019/08/Bioluminiscencia-orilla-playa.jpg')";> <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-xl-9 mx-auto">
+         <h1 class="mb-5"></h1>
+        </div>
+        <div class="col-md-10 col-lg-8 col-xl-7 mx-auto"> 
+           <form>
+            <div class="form-row">
+              <div class="col-12 col-md-9 mb-2 mb-md-0">
+                <input type="email" class="form-control form-control-lg" placeholder="Digite Seu E-mail...">
+              </div>
+              <div class="col-12 col-md-3">
+                <button type="submit" <a class="btn btn-primary" < a href="https://replit.com/@thaynagama/Aula9-testeGithub#pasword.html">esqueceu a senha? </a></button> 
+              </div>
+            </div>
+          </form><br> <form>
+            <div class="form-row">
+              <div class="col-12 col-md-9 mb-2 mb-md-0">
+                <input type="email" class="form-control form-control-lg" placeholder="Digite Sua Senha...">
+              </div>
+              <div class="col-12 col-md-3">
+                <button type="submit" class="btn btn-block btn-lg btn-primary"< a href="https://1a-avaliacao.thaynagama.repl.co/">Entrar!</button></a>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+  <!-- Image Showcases -->
+  <section class="showcase">
+    <div class="container-fluid p-0">
+      <div class="row no-gutters">
+
+        <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('http://francinejoias.com.br/blog/wp-content/uploads/2018/06/sapphire.jpg');"></div>
+        <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+          <h2>Safira:O Que Voçe Precisa Saber Antes De Comprar </h2>
+          <p class="lead mb-0">A safira é uma das gemas preciosas mais desejadas do mundo. Conhecida pelo tom de azul profundo, a pedra também é encontrada na natureza em diversas tonalidades. Apreciada pela durabilidade, a safira é considerada a pedra do mês de setembro, símbolo da nobreza e do romance.</p>
+        </div>
+      </div>
+      <div class="row no-gutters">
+        <div class="col-lg-6 text-white showcase-img" style="background-image: url('https://thumbs.dreamstime.com/z/cara-de-uma-mulher-bonita-com-anel-da-joia-safira-no-dedo-99773432.jpg');"></div>
+        <div class="col-lg-6 my-auto showcase-text">
+          <h2>Anéis de noivado com safiras</h2>
+          <p class="lead mb-0">Embora o diamante seja a pedra tradicionalmente utilizada em anéis de noivado, nem sempre ele foi o único símbolo de uma promessa de amor. A safira azul é muito associada ao romance e ao amor eterno. Não são poucos os exemplos de mulheres notáveis que, ao longo da história, foram pedidas em casamento com um anel de safira. Princesa Diana, Josefina de Beauharnais e Kate Middleton são algumas delas.
+Além do belíssimo tom, peças com safira contam com outra vantagem em relação aos tradicionais anéis de diamantes. na maioria dos casos,são menos caras do que anéis de diamantes.
+</p>
+        </div>
+      </div>
+      <div class="row no-gutters">
+        <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('https://www.nolanandvada.co.nz/wp-content/uploads/2019/06/Blue-Sapphire-Nolan-and-Vada.jpeg');"></div>
+        <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+          <h2>Historia</h2>
+          <p class="lead mb-0">Na antiguidade, os reis e imperadores gregos e romanos acreditavam que as safiras azuis protegiam seus donos da inveja e do mal, além de possuírem virtudes e poderes que poderiam beneficiar seus usuários.
+</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+ 
+  
+
+  <!-- Footer -->
+  <footer class="footer bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
+          <ul class="list-inline mb-2">
+            <li class="list-inline-item">
+              <a href="#">About</a>
+            </li>
+            <li class="list-inline-item">&sdot;</li>
+            <li class="list-inline-item">
+              <a href="#">Contact</a>
+            </li>
+            <li class="list-inline-item">&sdot;</li>
+            <li class="list-inline-item">
+              <a href="#">Terms of Use</a>
+            </li>
+            <li class="list-inline-item">&sdot;</li>
+            <li class="list-inline-item">
+              <a href="#">Privacy Policy</a>
+            </li>
+          </ul>
+          <p class="text-muted small mb-4 mb-lg-0">&copy; Your Website 2020. All Rights Reserved.</p>
+        </div>
+        <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
+          <ul class="list-inline mb-0">
+            <li class="list-inline-item mr-3">
+              <a href="#">
+                <i class="fab fa-facebook fa-2x fa-fw"></i>
+              </a>
+            </li>
+            <li class="list-inline-item mr-3">
+              <a href="#">
+                <i class="fab fa-twitter-square fa-2x fa-fw"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <i class="fab fa-instagram fa-2x fa-fw"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
